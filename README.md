@@ -2,7 +2,7 @@ mruby-implerr
 ====
 
 
-## Descriotion
+## Description
 ImplementationError class
 
 if you have working in progress mrbgems,  
